@@ -1,0 +1,6 @@
+os-sys
+google-play-scraper
+numpy
+pandas
+matplotlib
+tensorflow
